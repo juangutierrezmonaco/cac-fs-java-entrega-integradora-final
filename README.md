@@ -1,6 +1,6 @@
 # Trabajo práctico integrador para el curso de JAVA Full Stack del programa Codo a Codo.
 
-Página que simula la venta de tickets realizada con Vanilla JS y Java, consiste en un CRUD para poder comprar, modificar, eliminar y ver tus tickets.
+Página que simula la venta de tickets realizada con Vanilla JS y Java, consiste en un CRUD para poder comprar, modificar, eliminar y ver tickets.
 
 ## Front End - Tecnologías utilizadas:
 
