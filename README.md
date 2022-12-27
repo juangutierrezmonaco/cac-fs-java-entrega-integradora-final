@@ -20,7 +20,7 @@ Página que simula la venta de tickets realizada con Vanilla JS y Java, consiste
 
 ## Consideraciones: 
 
-Proyecto realizado con el IDE Eclipse, se usó Tomcat para desplegar el proyecto en un servidor local. En cuánto a la base de datos, están el JAR de MySQL Connector que fue utilizado y la base de datos para utilizar, en la carpeta 'files'. La base de datos está montada en el puerto 3306 y de no existir ni la base de datos ni la tabla, se crea por defecto una base de datos con el nombre 'db_tickets_juangutierrez' con una tabla adentro que se llama 'tickets' para poder utilizar el proyecto sin tener que crear nada (siempre y cuando el servidor de la base de datos esté en el puerto 3306).
+Proyecto realizado con el IDE Eclipse, se usó Tomcat para desplegarlo en un servidor local. Están disponibles en la carpeta 'files', el archivo JAR de MySQL Connector que fue utilizado y la base de datos. La misma está montada en el puerto 3306 y de no existir ésta o la tabla, se crea por defecto una base de datos con el nombre 'db_tickets_juangutierrez' con una tabla adentro que se llama 'tickets' para poder utilizar el proyecto sin tener que crear nada (siempre y cuando el servidor de la base de datos esté en el puerto 3306).
 
 ## Capturas
 
